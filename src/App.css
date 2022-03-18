@@ -1,0 +1,21 @@
+.home-container {
+  text-transform: capitalize;
+}
+
+.App {
+  display: flex;
+}
+
+.left-section {
+  width: 40%;
+  background: aliceblue;
+}
+
+.right-section {
+  width: 60%;
+}
+
+.sidebar-img {
+  width: 160px;
+  height: 160px;
+}
